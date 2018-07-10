@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crawler/crawler.iml" filepath="$PROJECT_DIR$/.idea/modules/crawler/crawler.iml" group="crawler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crawler/crawler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crawler/crawler_main.iml" group="crawler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crawler/crawler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crawler/crawler_test.iml" group="crawler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/indexer/indexer.iml" filepath="$PROJECT_DIR$/.idea/modules/indexer/indexer.iml" group="indexer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/indexer/indexer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/indexer/indexer_main.iml" group="indexer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/indexer/indexer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/indexer/indexer_test.iml" group="indexer" />
+      <module fileurl="file://$PROJECT_DIR$/product-crawler.iml" filepath="$PROJECT_DIR$/product-crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-crawler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-crawler_main.iml" group="product-crawler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-crawler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/product-crawler_test.iml" group="product-crawler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared_main.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared_test.iml" group="shared" />
+    </modules>
+  </component>
+</project>

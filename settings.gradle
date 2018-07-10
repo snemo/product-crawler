@@ -1,0 +1,4 @@
+rootProject.name = 'product-crawler'
+include 'crawler'
+include 'indexer'
+include 'shared'
